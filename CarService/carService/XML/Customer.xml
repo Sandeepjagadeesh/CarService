@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<!-- <!DOCTYPE customers SYSTEM "customers.dtd"> -->
+
+<Customer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="customers.xsd">
+	<Customer>
+		<CustID>AX1256</CustID>
+		<Email>sandyersy@gmail.com</Email>
+		<Mobile>+1(773)4412666</Mobile>
+		<Password>RamSi12</Password>
+	</Customer>
+------------------------------------------------------------------------------
+<Customer>
+  <CustID>AX1344</CustID>
+  <Email>sboregowda@gmail.com</Email>
+  <Mobile>+1(773)2134451</Mobile>
+  <Password>Rockstar12</Password>
+</Customer>
+</Customer>
